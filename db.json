@@ -5,7 +5,7 @@
         "name": "Toothless",
         "description": "A Night Fury",
         "image":"https://www.wikihow.com/images/b/b2/Draw-Toothless-Step-24.jpg",
-        "atWar":false
+        "atWar":true
       },
       {
         "id": 2,
